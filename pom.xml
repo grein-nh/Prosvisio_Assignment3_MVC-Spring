@@ -5,8 +5,9 @@
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
-		<artifactId>react-and-spring-data-rest</artifactId>
+		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.1.7.RELEASE</version>
+		<relativePath />
 	</parent> 
 
 	<artifactId>react-and-spring-data-rest-conditional</artifactId>
